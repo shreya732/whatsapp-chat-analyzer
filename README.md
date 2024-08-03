@@ -96,9 +96,7 @@ Contributions are welcome! To contribute:
 2. **Make Changes**: Implement features or fix bugs.
 3. **Submit a Pull Request**: Share your changes for review and integration.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
