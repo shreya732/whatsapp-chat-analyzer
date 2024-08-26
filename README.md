@@ -1,5 +1,6 @@
 
-# WhatsApp Chat Analyzer
+# WhatsApp Chat Analyzer![Screenshot 2024-08-03 205619](https://github.com/user-attachments/assets/e1704d39-8ef1-481b-8a60-91713bbb3388)
+
 
 A tool for analyzing WhatsApp chat data. This project allows you to upload and analyze chat exports, providing insights into chat activity, user interactions, and more. 
 
