@@ -99,8 +99,14 @@ Contributions are welcome! To contribute:
 
 
 ## Acknowledgments
+![Screenshot 2024-08-0![Screenshot 2024-08-03 211917](https://github.com/user-attachments/assets/e9daefa7-7cdc-4f84-8b0b-e3b5fe9c16cd)
+3 205619](https://github.com/user-attachments/assets/8436684d-56e0-4039-a046-6c7e618![Screenshot 2024-08-03 211800](https://github.com/user-attachments/assets/7966098a-d3a7-4d62-8275-49b752ddfe99)
+94176)
 
-- [Streamlit](https://streamlit.io/) for the easy-to-use web framework.
+- [Streamlit](h![Screenshot 2024-08-03 212018](https://github.com/user-attachments/assets/a22903a6-d385-48a0-af05-e04fd0c374ea)
+ttp![Screenshot 2024-08-03 211740](https://github.com/user-att![Screenshot 2024-08-03 211957](https://github.com/user-attachments/assets/b20707b0-ffcd-4890-8491-c12e7096d19e)
+achments/assets/5305d9cf-a77b-4071-8a18-dbfb4f7baaa0)
+s://streamlit.io/) for the easy-to-use web framework.
 - [Pandas](https://pandas.pydata.org/) for data manipulation.
 - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualization.
 - [WordCloud](https://github.com/amueller/word_cloud) for generating word clouds.
